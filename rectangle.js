@@ -5,6 +5,8 @@ $(function(){
         $btnCal = $('#calculate'),
         $perimeter = $('#perimeter'),
         $area = $('#area');
+    $forkMeGH.show("https://github.com/limengxue130402/rectangle");
+    $bszPageFooter.show("body");
     /**calc button click event */
     //get value
     $btnCal.click(function(){
